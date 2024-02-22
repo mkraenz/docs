@@ -155,7 +155,7 @@ any future date as the expiration and any three digits as the CVC.
 
 :::tip
 
-If you are having trouble diagnosing issues with your Webhooks, the logs are a
+If you are having trouble diagnosing issues with your Webhooks, the live logs are a
 good place to see what is going on. You can also open the
 [**Webhooks**](https://dashboard.stripe.com/webhooks) page in Stripe and see the
 history of webhook events sent and their responses.
@@ -163,6 +163,8 @@ history of webhook events sent and their responses.
 :::
 
 You've successfully subscribed to one of the Plans in your API. You're one step
-away from monetizing your API. In the next step you will add policies to your
+away from monetizing your API. In the next step, you will add policies to your
 API, enforce quotas and ensure that users are only allowed to use your API
 according to the plan they subscribe to.
+
+[Next - Step 3](./monetization-policy-setup.md)
